@@ -154,3 +154,35 @@
 [20:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
 [20:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
 [20:44:25] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved too quickly! -0.12508219323065362,0.0,10.123109397778592
+[20:54:39] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved too quickly! 0.0,0.0,10.449669974565722
+[20:55:13] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved too quickly! 0.0,0.0,-10.363450095627513
+[20:56:37] [Server thread/WARN]: Rat_Tomago moved too quickly! 2.381799512969451,0.0,9.71933385487273
+[20:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[20:56:44] [Server thread/WARN]: Boat (vehicle of cheeman14) moved too quickly! 0.0,0.0,-12.033820287187723
+[20:56:44] [Server thread/WARN]: Boat (vehicle of cheeman14) moved too quickly! 0.0,0.0,-12.046624425663936
+[20:57:08] [Server thread/WARN]: cheeman14 was kicked for floating too long!
+[20:57:08] [Server thread/INFO]: cheeman14 lost connection: Flying is not enabled on this server
+[20:57:08] [Server thread/INFO]: cheeman14 left the game
+[20:57:08] [Server thread/WARN]: handleDisconnection() called twice
+[20:57:18] [User Authenticator #45/INFO]: UUID of player cheeman14 is 8cc82656-d803-44ff-b85e-fbbc8637e3a1
+[20:57:18] [Server thread/INFO]: cheeman14[/192.168.1.108:63073] logged in with entity id 530193 at (77.3749079278397, 129.5625, -177.31250000000003)
+[20:57:18] [Server thread/INFO]: cheeman14 joined the game
+[20:58:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/531570, l='ServerLevel[Cutie New World 2]', x=608.80, y=79.00, z=-1192.80]
+[20:59:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/531607, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[20:59:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/531607, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[20:59:21] [Server thread/INFO]: cheeman14 lost connection: Disconnected
+[20:59:21] [Server thread/INFO]: cheeman14 left the game
+[20:59:33] [Server thread/INFO]: Stopping the server
+[20:59:33] [Server thread/INFO]: Stopping server
+[20:59:33] [Server thread/INFO]: Saving players
+[20:59:33] [Server thread/INFO]: Saving worlds
+[20:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cutie New World 2]'/minecraft:overworld
+[20:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (Cutie New World 2): All chunks are saved
+[20:59:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cutie New World 2]'/minecraft:the_nether
+[20:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:59:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cutie New World 2]'/minecraft:the_end
+[20:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:59:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (Cutie New World 2): All chunks are saved
+[20:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:59:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:59:57] [Server thread/INFO]: Thread Query Listener stopped
