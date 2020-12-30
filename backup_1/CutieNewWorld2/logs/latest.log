@@ -145,3 +145,12 @@
 [19:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
 [20:09:28] [Server thread/INFO]: Rat_Tomago lost connection: Disconnected
 [20:09:28] [Server thread/INFO]: Rat_Tomago left the game
+[20:30:31] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/519101, l='ServerLevel[Cutie New World 2]', x=608.80, y=79.00, z=-1192.20]
+[20:33:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/519761, l='ServerLevel[Cutie New World 2]', x=608.80, y=79.00, z=-1192.80]
+[20:33:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/519777, l='ServerLevel[Cutie New World 2]', x=608.20, y=79.00, z=-1192.20]
+[20:40:42] [User Authenticator #44/INFO]: UUID of player Rat_Tomago is 36116a7f-a276-461a-bcbe-a316c70c6ec2
+[20:40:42] [Server thread/INFO]: Rat_Tomago[/192.168.1.149:56364] logged in with entity id 521874 at (78.61004114801362, 130.0, -206.4129230350133)
+[20:40:42] [Server thread/INFO]: Rat_Tomago joined the game
+[20:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[20:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[20:44:25] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved too quickly! -0.12508219323065362,0.0,10.123109397778592
