@@ -5,15 +5,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_water": "2020-12-30 23:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2020-12-30 23:01:58 +0000"
+      "consumed_item": "2020-12-30 23:21:07 +0000"
     },
     "done": true
   },
@@ -28,6 +22,36 @@
       "in_water": "2020-12-30 23:01:58 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-12-30 23:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-12-30 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-12-30 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-30 23:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2020-12-30 23:21:07 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -47,12 +71,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2020-12-30 23:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-12-30 23:03:59 +0000"
@@ -61,9 +79,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2020-12-30 23:23:47 +0000",
+      "minecraft:mountains": "2020-12-30 23:22:07 +0000",
       "minecraft:birch_forest": "2020-12-30 23:07:25 +0000",
+      "minecraft:dark_forest": "2020-12-30 23:22:00 +0000",
       "minecraft:river": "2020-12-30 23:02:00 +0000",
       "minecraft:birch_forest_hills": "2020-12-30 23:07:46 +0000",
+      "minecraft:wooded_mountains": "2020-12-30 23:25:21 +0000",
       "minecraft:plains": "2020-12-30 23:01:09 +0000"
     },
     "done": false
