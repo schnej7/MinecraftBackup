@@ -1,0 +1,76 @@
+[00:02:18] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/433004, l='ServerLevel[Cutie New World 2]', x=608.20, y=79.00, z=-1192.20]
+[00:03:22] [User Authenticator #39/INFO]: UUID of player Rat_Tomago is 36116a7f-a276-461a-bcbe-a316c70c6ec2
+[00:03:22] [Server thread/INFO]: Rat_Tomago[/192.168.1.149:51877] logged in with entity id 433203 at (539.6999999880791, 78.0, -1321.63972107801)
+[00:03:22] [Server thread/INFO]: Rat_Tomago joined the game
+[00:04:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/433393, l='ServerLevel[Cutie New World 2]', x=588.22, y=77.00, z=-1213.80]
+[00:05:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/434348, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[00:16:06] [Server thread/INFO]: Villager bfg['Fisherman'/410731, l='ServerLevel[Cutie New World 2]', x=596.17, y=77.00, z=-1294.68] died, message: 'Fisherman was slain by Zombie'
+[00:19:18] [Server thread/INFO]: Set Rat_Tomago's game mode to Creative Mode
+[00:19:44] [Server thread/INFO]: Set Rat_Tomago's game mode to Survival Mode
+[00:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:23:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/439890, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:24:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/440219, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:24:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/440219, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:25:25] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/440488, l='ServerLevel[Cutie New World 2]', x=608.20, y=79.00, z=-1192.20]
+[00:27:11] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/440852, l='ServerLevel[Cutie New World 2]', x=609.80, y=79.00, z=-1193.20]
+[00:28:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/441091, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.80]
+[00:30:22] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/441556, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.80]
+[00:33:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/442057, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:33:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/442057, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[00:34:11] [Server thread/INFO]: cheeman14 lost connection: Disconnected
+[00:34:11] [Server thread/INFO]: cheeman14 left the game
+[00:35:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/442425, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.20]
+[00:41:22] [Server thread/WARN]: Rat_Tomago moved too quickly! 2.6663721494931565,0.0,9.743973067536217
+[00:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[00:42:53] [Server thread/INFO]: Rat_Tomago has completed the challenge [Hot Tourist Destinations]
+[00:44:58] [Server thread/INFO]: Rat_Tomago has completed the challenge [Subspace Bubble]
+[00:51:24] [Server thread/WARN]: Rat_Tomago moved too quickly! -0.03737541390978549,0.0,-10.101869647321806
+[01:03:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/454520, l='ServerLevel[Cutie New World 2]', x=609.80, y=79.00, z=-1193.20]
+[01:03:23] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/454545, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[01:03:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/454607, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.80]
+[01:16:46] [User Authenticator #40/INFO]: UUID of player cheeman14 is 8cc82656-d803-44ff-b85e-fbbc8637e3a1
+[01:16:46] [Server thread/INFO]: cheeman14[/192.168.1.108:61075] logged in with entity id 456954 at (637.1937395059715, 69.0, -1301.3472183212573)
+[01:16:46] [Server thread/INFO]: cheeman14 joined the game
+[01:19:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/457897, l='ServerLevel[Cutie New World 2]', x=609.80, y=79.00, z=-1191.80]
+[01:20:09] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/458160, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1193.20]
+[01:21:49] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/458580, l='ServerLevel[Cutie New World 2]', x=588.80, y=77.00, z=-1213.80]
+[01:22:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/458663, l='ServerLevel[Cutie New World 2]', x=609.80, y=79.00, z=-1193.20]
+[01:24:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/459226, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.80]
+[01:24:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/459226, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.80]
+[01:26:21] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/459753, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[01:26:21] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/459753, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[01:28:32] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.3196761164104487
+[01:28:32] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.472773304068852
+[01:28:32] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.4041619981551037
+[01:28:32] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.29538868682399766
+[01:28:32] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.7554028821568011
+[01:29:02] [Server thread/INFO]: cheeman14 lost connection: Disconnected
+[01:29:02] [Server thread/INFO]: cheeman14 left the game
+[01:30:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/463507, l='ServerLevel[Cutie New World 2]', x=610.80, y=79.00, z=-1192.80]
+[01:30:44] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/463523, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[01:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01:31:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/463652, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1193.20]
+[01:31:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/463653, l='ServerLevel[Cutie New World 2]', x=609.80, y=79.00, z=-1193.20]
+[01:32:46] [Server thread/INFO]: Rat_Tomago lost connection: Disconnected
+[01:32:46] [Server thread/INFO]: Rat_Tomago left the game
+[01:58:36] [User Authenticator #41/INFO]: UUID of player cheeman14 is 8cc82656-d803-44ff-b85e-fbbc8637e3a1
+[01:58:36] [Server thread/INFO]: cheeman14[/192.168.1.108:61184] logged in with entity id 463812 at (610.5, 89.0, -1243.5)
+[01:58:36] [Server thread/INFO]: cheeman14 joined the game
+[02:05:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/466690, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[02:19:21] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/469075, l='ServerLevel[Cutie New World 2]', x=608.80, y=79.00, z=-1192.20]
+[02:23:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/469842, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[02:24:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/470028, l='ServerLevel[Cutie New World 2]', x=588.80, y=77.00, z=-1213.80]
+[02:43:25] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/473091, l='ServerLevel[Cutie New World 2]', x=588.80, y=77.00, z=-1213.80]
+[02:48:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/474086, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[02:54:00] [Server thread/INFO]: Villager bfg['Farmer'/464496, l='ServerLevel[Cutie New World 2]', x=590.49, y=67.00, z=-1406.40] died, message: 'Farmer was slain by Zombie'
+[03:16:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/479084, l='ServerLevel[Cutie New World 2]', x=608.80, y=79.00, z=-1192.20]
+[03:19:43] [Server thread/INFO]: cheeman14 lost connection: Disconnected
+[03:19:43] [Server thread/INFO]: cheeman14 left the game
+[18:26:00] [User Authenticator #42/INFO]: UUID of player cheeman14 is 8cc82656-d803-44ff-b85e-fbbc8637e3a1
+[18:26:00] [Server thread/INFO]: cheeman14[/192.168.1.108:62736] logged in with entity id 479768 at (600.4818128546917, 78.0, -1302.085286645465)
+[18:26:00] [Server thread/INFO]: cheeman14 joined the game
+[18:30:09] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/482082, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[18:30:23] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/482128, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
+[18:31:11] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/482246, l='ServerLevel[Cutie New World 2]', x=588.20, y=77.00, z=-1213.20]
