@@ -143,3 +143,5 @@
 [19:36:07] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/502584, l='ServerLevel[Cutie New World 2]', x=610.80, y=79.00, z=-1192.80]
 [19:50:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/508144, l='ServerLevel[Cutie New World 2]', x=609.20, y=79.00, z=-1191.20]
 [19:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[20:09:28] [Server thread/INFO]: Rat_Tomago lost connection: Disconnected
+[20:09:28] [Server thread/INFO]: Rat_Tomago left the game
