@@ -1563,6 +1563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-30 19:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-10-17 20:09:01 +0000"
@@ -3216,6 +3222,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-23 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-30 19:01:28 +0000"
     },
     "done": true
   },
