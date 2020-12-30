@@ -146,3 +146,4 @@
 [21:43:10] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.33421024282944245
 [21:43:10] [Server thread/WARN]: Boat (vehicle of Rat_Tomago) moved wrongly! 0.3751279774169234
 [21:44:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Egg'/27437, l='ServerLevel[Cutie New World 2]', x=596.80, y=78.00, z=-1191.80]
+[21:46:44] [Server thread/INFO]: Villager bfg['Butcher'/24614, l='ServerLevel[Cutie New World 2]', x=605.79, y=67.00, z=-1393.46] died, message: 'Butcher was slain by Husk'
