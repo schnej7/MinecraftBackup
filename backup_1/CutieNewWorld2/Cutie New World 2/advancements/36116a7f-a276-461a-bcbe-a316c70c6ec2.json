@@ -837,6 +837,7 @@
     "criteria": {
       "minecraft:pillager": "2020-10-21 01:24:42 +0000",
       "minecraft:skeleton": "2020-10-17 21:27:31 +0000",
+      "minecraft:ghast": "2020-12-30 23:59:38 +0000",
       "minecraft:hoglin": "2020-11-11 01:46:41 +0000",
       "minecraft:vindicator": "2020-10-26 02:11:37 +0000",
       "minecraft:spider": "2020-10-17 20:36:44 +0000",
@@ -2139,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-12-31 00:02:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2020-11-29 23:00:09 +0000"
@@ -2334,6 +2341,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-18 20:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-12-31 00:02:03 +0000"
     },
     "done": true
   },
