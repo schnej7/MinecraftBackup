@@ -1,1 +1,2 @@
-[17:21:28] [Server thread/INFO]: /173.249.34.219:50578 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[02:17:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:17:54] [Server thread/INFO]: :sessionname minecraft-server-2<--[HERE]
